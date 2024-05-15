@@ -1,0 +1,74 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-15 11:24+0500\n"
+"PO-Revision-Date: 2024-05-15 10:25+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: handlers/admin_private.py:23 handlers/admin_private.py:36
+msgid "User was registered in: {date}"
+msgstr ""
+
+#: handlers/admin_private.py:27
+msgid "Enter a user id: "
+msgstr ""
+
+#: handlers/admin_private.py:47
+msgid "To send a message to a user enter a user id: "
+msgstr ""
+
+#: handlers/admin_private.py:54
+msgid "What to send to a user? Enter message: "
+msgstr ""
+
+#: handlers/admin_private.py:63
+msgid "Message has been sent!"
+msgstr ""
+
+#: handlers/user_private.py:21
+msgid "Hello {name}, welcome to my bot 😇"
+msgstr ""
+
+#: handlers/user_private.py:23 handlers/user_private.py:42
+msgid "🌐 Choose a language"
+msgstr ""
+
+#: handlers/user_private.py:29
+msgid "Choose: "
+msgstr ""
+
+#: handlers/user_private.py:39
+msgid "Uzbek"
+msgstr ""
+
+#: handlers/user_private.py:39
+msgid "English"
+msgstr ""
+
+#: handlers/user_private.py:40
+msgid "{language} is selected"
+msgstr ""
+
+#: handlers/user_private.py:41
+msgid "Choose:"
+msgstr ""
+
+#~ msgid "Hello {name}, welcome to p22_exam_bot!"
+#~ msgstr ""
+
+#~ msgid "Choose..."
+#~ msgstr ""
+

@@ -1,0 +1,70 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-15 11:24+0500\n"
+"PO-Revision-Date: 2024-05-15 10:25+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: handlers/admin_private.py:23 handlers/admin_private.py:36
+msgid "User was registered in: {date}"
+msgstr "User {date} da royxatdan o'tkan"
+
+#: handlers/admin_private.py:27
+msgid "Enter a user id: "
+msgstr "User ning 'id' sini kiriting"
+
+#: handlers/admin_private.py:47
+msgid "To send a message to a user enter a user id: "
+msgstr "User ga xabar yuborish uchun, user ning 'id' sini kiriting: "
+
+#: handlers/admin_private.py:54
+msgid "What to send to a user? Enter message: "
+msgstr "User ga nima xabar yuborish kerak, xabar ni yozing: "
+
+#: handlers/admin_private.py:63
+msgid "Message has been sent!"
+msgstr "Xabar yuborildi!"
+
+#: handlers/user_private.py:21
+msgid "Hello {name}, welcome to my bot 😇"
+msgstr "Assalomu alaykum {name}, mening botimga xush kelibsiz 😇"
+
+#: handlers/user_private.py:23 handlers/user_private.py:42
+msgid "🌐 Choose a language"
+msgstr "🌐 Tilni tanlash"
+
+#: handlers/user_private.py:29
+#, fuzzy
+msgid "Choose: "
+msgstr "Tanlang:"
+
+#: handlers/user_private.py:39
+msgid "Uzbek"
+msgstr "Uzbek"
+
+#: handlers/user_private.py:39
+msgid "English"
+msgstr "Ingiliz"
+
+#: handlers/user_private.py:40
+msgid "{language} is selected"
+msgstr "{language} tili tanlandi"
+
+#: handlers/user_private.py:41
+#, fuzzy
+msgid "Choose:"
+msgstr "Tanlang:"
+
